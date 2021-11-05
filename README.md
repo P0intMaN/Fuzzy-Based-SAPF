@@ -107,6 +107,28 @@ Using _SKFuzzy `control.ControlSystem`_ which defaults to _Mamdani Inference Sys
 - _Rule Writing_
 - _Control System + Simulation_
 
+## Experimental Results
+
+Successfully performed fuzzification and defuzzification using `SkFuzzy` module.
+
+Below are the observations from the experiment conducted:
+
+- _Membership Graph for `Input Set E`_
+
+![e membership](https://i.imgur.com/hFVcOVX.png)
+
+- _Membership Graph for `Input Set dE`_
+
+![de membership](https://i.imgur.com/qTPCn1A.png)
+
+- _Membership Graph for `Output Set Ic`_
+
+![Ic membership](https://i.imgur.com/QiMTrFC.png)
+
+- _Final Output for `E = 12, dE = -0.1` came out to be 45.99Amps_
+
+![Output](https://i.imgur.com/nkVoFFT.png)
+
 ## Resources
 
 - Moscow Scientific Reviews
