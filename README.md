@@ -142,3 +142,6 @@ Below are the observations from the experiment conducted:
 <a href="https://github.com/P0intMaN/Fuzzy-Based-SAPF/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=P0intMaN/Fuzzy-Based-SAPF" />
 </a>
+
+###### Pratheek & Sourav
+
